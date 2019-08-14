@@ -44,7 +44,7 @@ Note that you can maybe handle a big amount of reports, so try to do optimized q
 
 ### 2. Back to AngularJS.
 
-Write a simple front-end in AngularJs to show a list of reports using the Django API that you did. Also, add a select box with the list of all users. Once you select an user, you should show only the reports related to this user. The reports list, each item should show all informations, including author, supervisors and the responses.
+Write a simple front-end in AngularJs to show a list of reports using the Django API that you did. Also, add a select box with the list of all users. Once you select an user, you should show only the reports related to this user. On the reports list, each item should contains all informations, including author, supervisors and the responses.
 
 Feel free to make the front-end looks beautiful, it is not requried, but will give you extra points.
 
